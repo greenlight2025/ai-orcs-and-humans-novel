@@ -4,7 +4,13 @@
 
 ## 给 ChatGPT 网页端
 
-如果你是通过 ChatGPT 网页端 / GitHub connector 读取本仓库，请先阅读：
+如果你是通过 ChatGPT 网页端 / GitHub connector 读取本仓库，请使用仓库名：
+
+```text
+greenlight2025/ai-orcs-and-humans-novel
+```
+
+然后先阅读：
 
 - `00_项目入口/网页端启动说明.md`
 - `00_项目入口/项目总览.md`
@@ -22,4 +28,3 @@
 - `00_项目入口/项目总览.md`
 - `00_项目入口/术语与文风手册.md`
 - `00_项目入口/AI兽人与人类_项目源MD阅读索引_v3.md`
-
